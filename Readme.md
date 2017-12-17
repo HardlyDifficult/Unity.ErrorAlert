@@ -28,4 +28,4 @@ Note:
 
 <br><br>
 
-Free for all, brought to you by twitch.tv/HardlyDifficult
+Free for all, brought to you by [twitch.tv/HardlyDifficult](http://twitch.tv/HardlyDifficult)
