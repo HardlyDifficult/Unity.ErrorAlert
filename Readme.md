@@ -29,3 +29,5 @@ Note:
 <br><br>
 
 Free for all, brought to you by [twitch.tv/HardlyDifficult](http://twitch.tv/HardlyDifficult)
+
+ - Issue? Suggestion? Please [Open a New Issue](https://github.com/hardlydifficult/Unity.ErrorAlert/issues/new).
