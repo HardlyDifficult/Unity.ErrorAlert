@@ -12,7 +12,7 @@ Tested with Unity 2017.  Works with both the old compiler and Unity's new C# 6 /
 
 ## Install Instructions
 
- - Download [Unity.ErrorAlerts Zip](TODO)
+ - Download [Unity.ErrorAlerts Zip](https://github.com/hardlydifficult/Unity.ErrorAlert/blob/master/bin/HardlyDifficult.Unity.ErrorAlert.zip?raw=true)
  - Unzip into your Project's Asset directory.
 
 That's it!
